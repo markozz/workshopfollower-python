@@ -1,0 +1,9 @@
+# ide files
+.idea/
+.venv/
+*.iml
+
+# files created by tests
+tests/log/
+tests/*.log
+tests/*.json
